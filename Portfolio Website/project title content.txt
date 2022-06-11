@@ -1,0 +1,91 @@
+
+1.  ********** SITE CONTANT ***********
+4.  -----------colour-----------
+6.  background dark  : #292929;
+7.  background light : #353535;
+8.  colour           : #f3971b;
+9.  taxt colour      : # c2c0c3;
+11. ..........all selection ....
+12.   1. header 
+13.   2. home 
+14.   3. about 
+15.   4. service 
+16.   5. skill
+17.   6. portfolio
+18.   7. team 
+19.   8. contact from 
+20.   9. footer
+23.   1. ------------ header section contact ------------
+25.      home, about , services , portfolio, team , contact 
+28.   2.------ home section contant --------
+30.   hi, I'm om prakash 
+31.   frontend developer 
+
+34.  3.------ about section contant -----
+       Hi, I'm om prakssh 
+       frontent developer bass in new delhi 
+
+35. lorem ipsum dolor sit amet, ut enim ad minim veniam, quis nostrud 
+    exercitation ullamco laboris nisi. ut enim ad minim veniam , quid nostrud 
+    exsercitation allamco lanoris nisi.
+
+41. download cv hire me 
+
+44. 4.---------- service section content ------
+
+                      > font awesome icone codes 
+47. web developerment > fa-laotop 
+48. responsive design > fa- mobile 
+49. creative design   > fa- pencil 
+50. clean code        > fa- code 
+51. fast support      > fa- support 
+52. brinding identity > fa- fa rocket 
+
+55.   5. --------skill section content---------
+56 .       html 
+57.        css
+58.        java scsript 
+59.        angular 
+60.        php
+61.        java
+62.        react
+
+
+66.  6.    ----------  portfolio section comtents ------
+
+68.              web design 
+69.              graphics 
+70.              branding 
+
+
+74. 7.    -------- taam section contant -------
+
+76.       ram kanaiya   > web developer 
+77.       prakash singh > designer 
+78.       avinash singh > app developer  
+
+
+82.  8.------- contact from content ------
+
+84.    name    > text 
+85.    email   >text
+86.    subject >text
+87.    message >text
+88.    send message > button 
+
+
+
+91. 9. -----------footer content ----------
+
+
+93. phone no         email               location 
+94. _________________________________________________
+
+
+96. social media link 
+    
+                    __END__ 
+
+
+
+  
